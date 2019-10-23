@@ -14,4 +14,5 @@ INSERT INTO users VALUES (13, 'Swizzle', 4);
 INSERT INTO users VALUES (14, 'Sirius', 36);
 INSERT INTO users VALUES (15, 'Albus', 113);
 INSERT INTO users VALUES (16, 'Squid', 5);
+INSERT INTO users VALUES (17, 'Whale', 6);
 INSERT INTO users VALUES 
