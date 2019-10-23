@@ -17,4 +17,4 @@ INSERT INTO users VALUES (16, 'Squid', 5);
 INSERT INTO users VALUES (17, 'Whale', 6);
 INSERT INTO users VALUES (18, 'Pacha', 5);
 INSERT INTO users VALUES (19, 'Ena', 24);
-INSERT INTO users VALUES 
+INSERT INTO users VALUES (20, 'Katie', 24);
