@@ -18,6 +18,7 @@ INSERT INTO users VALUES (17, 'Whale', 6);
 INSERT INTO users VALUES (18, 'Pacha', 5);
 INSERT INTO users VALUES (19, 'Ena', 24);
 INSERT INTO users VALUES (20, 'Katie', 24);
+
 INSERT INTO projects VALUES (1, 10.00, 1, 2);
 INSERT INTO projects VALUES(2, 20.00, 1, 3);
 INSERT INTO projects VALUES(3, 40.00, 1, 4);
